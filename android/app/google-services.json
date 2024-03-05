@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "747599169253",
+    "project_id": "login-daf14",
+    "storage_bucket": "login-daf14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747599169253:android:6adfa6c7d96ba1bfc5760c",
+        "android_client_info": {
+          "package_name": "com.example.signin_user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADk5DZShGIPlZnlhLNA70pwkL6HgTZt7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
